@@ -5,7 +5,7 @@ Collectively Read and Write, after logging in at the top right, here on document
 * Self Governance
 * Patterns and Performative Templates for Local Interventions
 * incremental Data Standardization
-* Licensing, Trust and Legal issues in terms of Institutionalization
+* Licensing, Trust and Legal issues in terms of Institutionalisation
 
 You may also want to focus your attention at past and future [[Events]].
 
