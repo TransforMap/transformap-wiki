@@ -1,3 +1,7 @@
+<blockquote class="twitter-tweet" lang="de"><p>Linked Data uses the concepts and technologies of the Web to describe the world. (no acronyms, no tech terms, one tweet) cc <a href="https://twitter.com/ayymanduh">@ayymanduh</a></p>— Phil Archer (@philarcher1) <a href="https://twitter.com/philarcher1/status/540579539915907072">4. Dezember 2014</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Personal note to be unfolded by the [TransforLab Incubator](https://trello.com/c/vy4EhfKl/105-transforlab-incubator):
 
 > > TransforMap, a community of communities in the field of commoning
