@@ -1,1 +1,3 @@
 2014 Presner T, Shepard D, Kawano Y: [HyperCities](https://github.com/hypercities/hypercities). Thick Mapping in the Digital Humanities. [Harvard](http://www.hup.harvard.edu/catalog.php?isbn=9780674725348).
+
+2014 Holderness T, Turpin E, Wickramasuriya R: [A GeoSocial Intelligence Framework](http://de.slideshare.net/smart_facility/isngi2014-turpin-holdernessforrelease) for Studying & Promoting Resilience to Seasonal Flooding in Jakarta, Indonesia. Vienna. (slide 65)
